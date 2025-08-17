@@ -121,25 +121,6 @@ languages:
   - name: English (Full professional proficiency)
   - name: Chinese (Native proficiency)
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Beckman Institute Graduate Fellowship
-    url: https://beckman.illinois.edu/news/article/2025/06/02/meet-the-2025-beckman-institute-graduate-fellows
-    date: '2025-06-02'
-    awarder: Arnold and Mabel Beckman Foundation
-    summary: |
-      Funded by the Arnold and Mabel Beckman Foundation, Beckman Institute Graudate Fellowship supports the M.A., M.S. or Ph.D. level graduate students’ interdisciplinary research. I proposed a project on optimizing the performance of redox-targeting flow battery guided by automated electrochemistry platform and a Bayesian optimization algorithm. I am collaborating with with [Prof. Joaquín Rodríguez-López]((https://rodriguezlopez.chemistry.illinois.edu/)), a professor of chemistry; [Prof. Nick Jackson](https://thejacksonlab.web.illinois.edu/wp/), an assistant professor of chemistry; [Prof. Charles Schroeder](https://schroeder.scs.illinois.edu/), a professor of chemical and biomolecular engineering (Now at Princeton University); and [Prof. Qian Chen](https://chenlab.matse.illinois.edu/), a professor of materials science and engineering.
-  - title: List of Teachers Ranked as Excellent
-    url: https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2024-fall.pdf
-    date: '2024-12'
-    awarder: Center for Innovation in Teaching & Learning, University of Illinois, Urbana-Champaign
-    summary: |
-      Teaching assistant ranked as excellent by the students from MSE 307 (Materials Laboratory)
----
-
 ## About Me
 
 Zirui Wang is a Ph.D. candidate in the Department of Materials Science and Engineering at University of Illinois, Urbana-Champaign. He is working with Prof. Joaquín Rodríguez-López to develop automated electrochemistry platform to study and optimize the mediated electron transfer processes in redox-targeting flow batteries and beyond. He combines electrochemical methods, finite-element simulation, microfabrication, automation, materials characterization, and data science extensively in his research works.
