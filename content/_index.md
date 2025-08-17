@@ -17,7 +17,11 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: static/uploads/Wang_Zirui_CV.pdf
+      button:
+        text: Connect with me on LinkedIn
+        icon: brands/linkedin
+        url: https://www.linkedin.com/in/zirui-wang-20b022172/
     design:
       css_class: dark
       background:
@@ -35,11 +39,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I build and apply automated electrochemistry platform and combine it with machine-learning algorithm to understand and optimize mediated electron transfer processes in redox-targeting flow batteries and other electrochemical systems. Please reach out to collaborate! 😃
     design:
       columns: '1'
   - block: collection

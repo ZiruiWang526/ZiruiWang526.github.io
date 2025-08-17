@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Zirui Wang (王子睿)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: I often tell people to replace the letter "X" with "Z" in the word "X-ray" to remember/pronouce my name
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: ZIRUI
+last_name: WANG
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🦈
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +20,126 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D Candidate, Materials Science and Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
+  - name: The Rodríguez-López (JRL) Group, University of Illinois, Urbana-Champaign
+    url: https://rodriguezlopez.chemistry.illinois.edu/
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ziruiwang-matse@outlook.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/zirui-wang-20b022172/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=nIhoTBAAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0008-4704-3792
+  - icon: brands/x
+    url: https://x.com/ZiruiWangMatSE
+  - icon: brands/instagram
+    url: https://www.instagram.com/brkwang/
+  - icon: brands/github
+    url: https://github.com/ZiruiWang526
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Electrochemistry 
+  - Energy storage
+  - Automation
+  - Micro-Electro-Mechanical Systems
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Candidate, Materials Science and Engineering
+    institution: University of Illinois, Urbana-Champaign (UIUC)
+    date_start: 2022-08
+    date_end: 2027-05 (Expected)
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Supervised by [Prof. Joaquín Rodríguez-López](https://rodriguezlopez.chemistry.illinois.edu/), I'm working on automated, high-throughput electrochemical characterization of energy storage materials for redox-flow batteries and beyond. I combine electrochemical methods, automation, micro- and nano-fabrication, finite-element analysis, and data science in my research works.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Main courses:
+      - CHEM 524: Electrochemical Methods
+      - CHEM 588: Physical Methods in Materials Chemistry
+      - MSE 480: Surfaces and Colloids
+      - MSE 598: Machine Learning for Materials Science and Engineering
+      - MSE 403: Synthesis of Materials
+
+  - area: BSc, Materials Science and Engineering
+    institution: University of Illinois, Urbana-Champaign (UIUC)
+    date_start: 2018-08
+    date_end: 2022-05
+    GPA: 3.91/4.00
     summary: |
-      GPA: 3.4/4.0
+      I earned my BSc degree in materials science and engineering with high honor. I also held a declared minor in electrical engineering. My focus area was microelectronics and electronic properties of semiconducting materials.
+
+      I joined the research group of [Prof. Yingjie Zhang](https://zhang.matse.illinois.edu/) as an undergraduate researcher in the summer of 2021. I worked on developing an encoder-decoder convolutional neural network for nanoscale surface profiling with enhanced precision. This work has been published in [Nano Letters](https://doi.org/10.1021/acs.nanolett.3c04712) and was selected as the journal cover. This experience offered me much more than a publication, but my interest in research, and was part of the reason why I decided to pursue a Ph.D. degree. I not only learned the principle of convolutional neural network, which is something I had very little experience with when I started the project, but also managed to apply the knowledge to tackle scientific problems.
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Selected core courses:
+      - MSE 401: Thermodynamics of Materials
+      - MSE 402: Kinetic Processes in Materials
+      - MSE 405: Microstructure Determination
+      - MSE 406: Thermo-Mechanical Behavior of Materials
+      - MSE 466: Electrochemical Energy Conversion
+
+      Other courses:
+      - ECE 444: Integated Circuit Theory and Fabrication
+      - ECE 481: Nanotechnology
+      - NPRE 470: Fuel Cells and Hydrogen Sources
+      - CS 444: Deep Learning for Computer Vision
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: Electrochemistry⚡
+        description: 'Theory and application of various electrochemical methods such as cyclic voltammetry (CV), chronoamperometry, bulk electrolysis, etc. Finite-element simulations of electrochemical processes via COMSOL multiphysics'
+      - name: Microfabrication🧷
+        description: 'Theory and application of common microfabrication processes such as computer-aided design, photolithography, physical vapor deposition, chemical vapor deposition, dry etch, wet etch, wafer bonding, and device packaging.'
+      - name: Automation🤖
+        description: 'Automating commercial instrument via Python libraries. Hardware control via microcontrollers such as Arduino and Raspberry pi.'
+      - name: Materials Characterization🔎
+        description: 'Theory and application of materials characterization methods such as Raman spectroscopy, scanning electron microscopy, and atomic force microscopy.'
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Soccer/Football⚽
+        description: 'I started to play soccer since high school ([Liaoning Province Shiyan High School](https://www.lnsyzx.cn/)) and was part of the club soccer team. I am currently in a Chinese student-organized soccer team of UIUC, CFA, also a part of the student organization under the same name. My position on the field is left back, and [Andrew Robertson](https://en.wikipedia.org/wiki/Andy_Robertson) is my idol. I am also an avid supporter of [Liverpool Football Club](https://www.liverpoolfc.com/), also known as "[the KOP](https://en.wikipedia.org/wiki/Anfield)." The motto of Liverpool Football Club, "You will never walk alone" always motivates me.'
+      - name: Billiards🎱
+        description: 'I started to watch Snooker under the influence of my dad since elementary school. I enjoy watching the games of [Neil Robertson](https://en.wikipedia.org/wiki/Neil_Robertson), [Mark Selby](https://en.wikipedia.org/wiki/Mark_Selby), and [John Higgins](https://en.wikipedia.org/wiki/John_Higgins). 
+      - name: Skiing⛷️
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Traveling🛣️
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English (Full professional proficiency)
+  - name: Chinese (Native proficiency)
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Beckman Institute Graduate Fellowship
+    url: https://beckman.illinois.edu/news/article/2025/06/02/meet-the-2025-beckman-institute-graduate-fellows
+    date: '2025-06-02'
+    awarder: Arnold and Mabel Beckman Foundation
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Funded by the Arnold and Mabel Beckman Foundation, Beckman Institute Graudate Fellowship supports the M.A., M.S. or Ph.D. level graduate students’ interdisciplinary research. I proposed a project on optimizing the performance of redox-targeting flow battery guided by automated electrochemistry platform and a Bayesian optimization algorithm. I am collaborating with with [Prof. Joaquín Rodríguez-López]((https://rodriguezlopez.chemistry.illinois.edu/)), a professor of chemistry; [Prof. Nick Jackson](https://thejacksonlab.web.illinois.edu/wp/), an assistant professor of chemistry; [Prof. Charles Schroeder](https://schroeder.scs.illinois.edu/), a professor of chemical and biomolecular engineering (Now at Princeton University); and [Prof. Qian Chen](https://chenlab.matse.illinois.edu/), a professor of materials science and engineering.
+  - title: List of Teachers Ranked as Excellent
+    url: https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2024-fall.pdf
+    date: '2024-12'
+    awarder: Center for Innovation in Teaching & Learning, University of Illinois, Urbana-Champaign
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Teaching assistant ranked as excellent by the students from MSE 307 (Materials Laboratory)
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zirui Wang is a Ph.D. candidate in the Department of Materials Science and Engineering at University of Illinois, Urbana-Champaign. He is working with Prof. Joaquín Rodríguez-López to develop automated electrochemistry platform to study and optimize the mediated electron transfer processes in redox-targeting flow batteries and beyond. He combines electrochemical methods, finite-element simulation, microfabrication, automation, materials characterization, and data science extensively in his research works.
