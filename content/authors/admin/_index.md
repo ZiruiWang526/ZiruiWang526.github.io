@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zirui Wang (王子睿)
+title: Zirui Wang
 
 # Name pronunciation (optional)
 name_pronunciation: I often tell people to replace the letter "X" with "Z" in the word "X-ray" to remember/pronouce my name
@@ -24,7 +24,7 @@ role: Ph.D Candidate, Materials Science and Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: The Rodríguez-López (JRL) Group, University of Illinois, Urbana-Champaign
+  - name: Ph.D. Candidate, Materials Science and Engineering, The Rodríguez-López (JRL) Group, University of Illinois, Urbana-Champaign
     url: https://rodriguezlopez.chemistry.illinois.edu/
 
 # Social network links

@@ -16,12 +16,9 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: static/uploads/Wang_Zirui_CV.pdf
-      button:
-        text: Connect with me on LinkedIn
+        text: Download my CV
         icon: brands/linkedin
-        url: https://www.linkedin.com/in/zirui-wang-20b022172/
+        url: static/uploads/Wang_Zirui_CV.pdf
     design:
       css_class: dark
       background:
