@@ -18,7 +18,7 @@ sections:
       button:
         text: Download my CV
         icon: brands/linkedin
-        url: static/uploads/Wang_Zirui_CV.pdf
+        url: ZiruiWang526.github.io/static/uploads/Wang_Zirui_CV.pdf
     design:
       css_class: dark
       background:

@@ -3,7 +3,7 @@
 title: Zirui Wang
 
 # Name pronunciation (optional)
-name_pronunciation: I often tell people to replace the letter "X" with "Z" in the word "X-ray" to remember/pronouce my name
+name_pronunciation: "Z-ray Wang"
 
 # Full name (for SEO)
 first_name: ZIRUI
@@ -24,7 +24,7 @@ role: Ph.D Candidate, Materials Science and Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Ph.D. Candidate, Materials Science and Engineering, The Rodríguez-López (JRL) Group, University of Illinois, Urbana-Champaign
+  - name: The Rodríguez-López (JRL) Group, University of Illinois, Urbana-Champaign
     url: https://rodriguezlopez.chemistry.illinois.edu/
 
 # Social network links
