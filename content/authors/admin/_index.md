@@ -148,7 +148,7 @@ awards:
 
   - title: List of Teachers Ranked as Excellent
     url: https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2024-fall.pdf
-    date: '2024-12'
+    date: '2024-12-23'
     awarder: Center for Innovation in Teaching & Learning, University of Illinois, Urbana-Champaign
     summary: |
       Teaching assistant ranked as excellent by the students from MSE 307 (Materials Laboratory)
