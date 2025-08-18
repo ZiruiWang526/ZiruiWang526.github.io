@@ -23,7 +23,8 @@ abstract: |
 
   We then extended the use of our platform to Prussian blue analogues (PBAs), a promising material for RTFBs to perform automated redox targeting experiments with different electrolytes and redox mediators. The high-throughput, programmable, and versatile nature of our platform establishes a practical way for advanced investigations into systems that require large-scale combinatorial studies.
 
-summary: An interdigitated electrode array-based automated electrochemistry platform to study the mediated electron transfer processes of electrodeposited redox-active polymer and Prussian blue via automated redox titration measurements.
+summary: |
+  An interdigitated electrode array-based automated electrochemistry platform to study the mediated electron transfer processes of electrodeposited redox-active polymer and Prussian blue via automated redox titration measurements.
 
 tags:
   - Flow Batteries Beyond Vanadium (I08)
