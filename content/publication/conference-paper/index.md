@@ -6,7 +6,7 @@ authors:
   - Michael A. Pence
   - Joaquín Rodríguez-López
 
-date: '2025-05'
+date: '2025-05-18'
 doi: '10.1149/MA2025-01452385mtgabs'
 
 publication_types: ['paper-conference']
