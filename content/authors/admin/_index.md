@@ -49,8 +49,8 @@ profiles:
 education:
   - area: PhD Candidate, Materials Science and Engineering
     institution: University of Illinois, Urbana-Champaign (UIUC)
-    date_start: 2022-08
-    date_end: 2027-05 (Expected)
+    date_start: 2022-08-15
+    date_end: 2027-08-14
     summary: |
       Supervised by [Prof. Joaquín Rodríguez-López](https://rodriguezlopez.chemistry.illinois.edu/), I'm working on automated, high-throughput electrochemical characterization of energy storage materials for redox-flow batteries and beyond. I combine electrochemical methods, automation, micro- and nano-fabrication, finite-element analysis, and data science in my research works.
 
@@ -69,8 +69,8 @@ education:
 
   - area: BSc, Materials Science and Engineering
     institution: University of Illinois, Urbana-Champaign (UIUC)
-    date_start: 2018-08
-    date_end: 2022-05
+    date_start: 2018-08-15
+    date_end: 2022-08-14
     summary: |
       I earned my BSc degree in materials science and engineering with high honor. I also held a declared minor in electrical engineering. My focus area was microelectronics and electronic properties of semiconducting materials.
 
