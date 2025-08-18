@@ -26,6 +26,7 @@ role: Ph.D Candidate, Materials Science and Engineering
 organizations:
   - name: The Rodríguez-López (JRL) Group, University of Illinois, Urbana-Champaign
     url: https://rodriguezlopez.chemistry.illinois.edu/
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -45,13 +46,6 @@ profiles:
   - icon: brands/github
     url: https://github.com/ZiruiWang526
 
-
-interests:
-  - Electrochemistry 
-  - Energy storage
-  - Automation
-  - Micro-Electro-Mechanical Systems
-
 education:
   - area: PhD Candidate, Materials Science and Engineering
     institution: University of Illinois, Urbana-Champaign (UIUC)
@@ -67,11 +61,16 @@ education:
       - MSE 598: Machine Learning for Materials Science and Engineering
       - MSE 403: Synthesis of Materials
 
+      Interests:
+      - Electrochemistry 
+      - Energy storage
+      - Automation
+      - Micro-Electro-Mechanical Systems
+
   - area: BSc, Materials Science and Engineering
     institution: University of Illinois, Urbana-Champaign (UIUC)
     date_start: 2018-08
     date_end: 2022-05
-    GPA: 3.91/4.00
     summary: |
       I earned my BSc degree in materials science and engineering with high honor. I also held a declared minor in electrical engineering. My focus area was microelectronics and electronic properties of semiconducting materials.
 
@@ -97,12 +96,16 @@ skills:
     items:
       - name: Electrochemistry⚡
         description: 'Theory and application of various electrochemical methods such as cyclic voltammetry (CV), chronoamperometry, bulk electrolysis, etc. Finite-element simulations of electrochemical processes via COMSOL multiphysics'
+        percent: 100
       - name: Microfabrication🧷
         description: 'Theory and application of common microfabrication processes such as computer-aided design, photolithography, physical vapor deposition, chemical vapor deposition, dry etch, wet etch, wafer bonding, and device packaging.'
+        percent: 100
       - name: Automation🤖
         description: 'Automating commercial instrument via Python libraries. Hardware control via microcontrollers such as Arduino and Raspberry pi.'
+        percent: 80
       - name: Materials Characterization🔎
         description: 'Theory and application of materials characterization methods such as Raman spectroscopy, scanning electron microscopy, and atomic force microscopy.'
+        percent: 60
 
   - name: Hobbies
     color: '#eeac02'
@@ -110,28 +113,39 @@ skills:
     items:
       - name: Soccer/Football⚽
         description: 'I started to play soccer since high school ([Liaoning Province Shiyan High School](https://www.lnsyzx.cn/)) and was part of the club soccer team. I am currently in a Chinese student-organized soccer team of UIUC, CFA, also a part of the student organization under the same name. My position on the field is left back, and [Andrew Robertson](https://en.wikipedia.org/wiki/Andy_Robertson) is my idol. I am also an avid supporter of [Liverpool Football Club](https://www.liverpoolfc.com/), also known as "[the KOP](https://en.wikipedia.org/wiki/Anfield)." The motto of Liverpool Football Club, "You will never walk alone" always motivates me.'
+        percent: 100
       - name: Billiards🎱
-        description: 'I started to watch Snooker under the influence of my dad since elementary school. I enjoy watching the games of [Neil Robertson](https://en.wikipedia.org/wiki/Neil_Robertson), [Mark Selby](https://en.wikipedia.org/wiki/Mark_Selby), and [John Higgins](https://en.wikipedia.org/wiki/John_Higgins). 
+        description: 'I started to watch Snooker under the influence of my dad since elementary school. I enjoy watching the games of [Neil Robertson](https://en.wikipedia.org/wiki/Neil_Robertson), [Mark Selby](https://en.wikipedia.org/wiki/Mark_Selby), and [John Higgins](https://en.wikipedia.org/wiki/John_Higgins).'
+        percent: 50
       - name: Skiing⛷️
         description: ''
+        percent: 50
       - name: Traveling🛣️
         description: ''
+        percent: 80
 
 languages:
   - name: English (Full professional proficiency)
+    percent: 100
   - name: Chinese (Native proficiency)
+    percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Beckman Institute Graduate Fellowship
     url: https://beckman.illinois.edu/news/article/2025/06/02/meet-the-2025-beckman-institute-graduate-fellows
     date: '2025-06-02'
     awarder: Arnold and Mabel Beckman Foundation
     summary: |
-      Funded by the Arnold and Mabel Beckman Foundation, Beckman Institute Graudate Fellowship supports the M.A., M.S. or Ph.D. level graduate students’ interdisciplinary research. I proposed a project on optimizing the performance of redox-targeting flow battery guided by automated electrochemistry platform and a Bayesian optimization algorithm. I am collaborating with with [Prof. Joaquín Rodríguez-López]((https://rodriguezlopez.chemistry.illinois.edu/)), a professor of chemistry; [Prof. Nick Jackson](https://thejacksonlab.web.illinois.edu/wp/), an assistant professor of chemistry; [Prof. Charles Schroeder](https://schroeder.scs.illinois.edu/), a professor of chemical and biomolecular engineering (Now at Princeton University); and [Prof. Qian Chen](https://chenlab.matse.illinois.edu/), a professor of materials science and engineering.
+      Funded by the Arnold and Mabel Beckman Foundation, the Beckman Institute Graduate Fellowship supports M.A., M.S., or Ph.D.-level students conducting interdisciplinary research.
+
+      I proposed a project on optimizing the performance of redox-targeting flow batteries, guided by an automated electrochemistry platform and Bayesian optimization.
+
+      I am collaborating with:
+      - [Prof. Joaquín Rodríguez-López](https://rodriguezlopez.chemistry.illinois.edu/)
+      - [Prof. Nick Jackson](https://thejacksonlab.web.illinois.edu/wp/)
+      - [Prof. Charles Schroeder](https://schroeder.scs.illinois.edu/)
+      - [Prof. Qian Chen](https://chenlab.matse.illinois.edu/)
+
   - title: List of Teachers Ranked as Excellent
     url: https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2024-fall.pdf
     date: '2024-12'
