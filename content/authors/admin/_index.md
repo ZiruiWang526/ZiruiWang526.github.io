@@ -3,7 +3,7 @@
 title: Zirui Wang
 
 # Name pronunciation (optional)
-name_pronunciation: "Z-ray Wang"
+name_pronunciation: "Name pronounces like: Z-ray Wang"
 
 # Full name (for SEO)
 first_name: ZIRUI
@@ -61,11 +61,13 @@ education:
       - MSE 598: Machine Learning for Materials Science and Engineering
       - MSE 403: Synthesis of Materials
 
-      Interests:
-      - Electrochemistry 
-      - Energy storage
-      - Automation
-      - Micro-Electro-Mechanical Systems
+      Key skills:
+      - Electrochemical methods
+      - COMSOL multiphysics
+      - Micro- and nano-fabrication
+      - Automation (Python)
+      - Materials characterization
+      - Computer-aided design
 
   - area: BSc, Materials Science and Engineering
     institution: University of Illinois, Urbana-Champaign (UIUC)
@@ -88,6 +90,11 @@ education:
       - ECE 481: Nanotechnology
       - NPRE 470: Fuel Cells and Hydrogen Sources
       - CS 444: Deep Learning for Computer Vision
+
+      Key skills:
+      - Materials Science
+      - Convolutional neural networks
+      - MATLAB
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -156,4 +163,4 @@ awards:
 
 ## About Me
 
-Zirui Wang is a Ph.D. candidate in the Department of Materials Science and Engineering at University of Illinois, Urbana-Champaign. He is working with Prof. Joaquín Rodríguez-López to develop automated electrochemistry platform to study and optimize the mediated electron transfer processes in redox-targeting flow batteries and beyond. He combines electrochemical methods, finite-element simulation, microfabrication, automation, materials characterization, and data science extensively in his research works.
+I'm a Ph.D. candidate in the Department of Materials Science and Engineering at University of Illinois, Urbana-Champaign. I'm working with Prof. Joaquín Rodríguez-López to develop automated electrochemistry platform to study and optimize the mediated electron transfer processes in redox-targeting flow batteries and beyond, guided by a Bayesian Optimization workflow. I combine electrochemical methods, finite-element simulation, microfabrication, automation, materials characterization, and data science extensively in his research works.
