@@ -16,9 +16,9 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download my CV
+        text: Download my Resume
         icon: brands/linkedin
-        url: https://ziruiwang526.github.io/uploads/Wang_Zirui_CV.pdf
+        url: https://ziruiwang526.github.io/uploads/Zirui_Wang_Resume.pdf
     design:
       css_class: dark
       background:

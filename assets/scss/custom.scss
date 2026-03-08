@@ -1,0 +1,19 @@
+/* Make markdown text blocks wider */
+.prose {
+  max-width: 1200px !important;
+
+  /* Link color inside prose */
+  --tw-prose-links: #1f6feb !important;
+}
+
+/* Also widen the main page container slightly */
+.container,
+.container-lg,
+.container-xl {
+  max-width: 1500px !important;
+}
+
+/* Hover color */
+.prose a:hover {
+  color: #0d47a1 !important;
+}
