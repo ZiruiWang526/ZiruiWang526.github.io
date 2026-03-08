@@ -48,7 +48,4 @@ education:
   - area: BSc, Materials Science and Engineering
     institution: University of Illinois Urbana-Champaign (UIUC)
 ---
-
-# Welcome!
-
 I'm a Ph.D. candidate in the Department of Materials Science and Engineering at University of Illinois, Urbana-Champaign. I'm working with Prof. Joaquín Rodríguez-López to develop automated electrochemistry platform to study and optimize the mediated electron transfer processes in redox-targeting flow batteries and beyond. I combine electrochemical methods, finite-element simulation, microfabrication, automation, materials characterization, and data science extensively in my research works.

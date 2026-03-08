@@ -1,6 +1,7 @@
 ---
 title: "Biography"
 url: /bio/
+spacing: "6rem"
 ---
 
 ### Short Bio
@@ -14,3 +15,12 @@ Outside the laboratory, I enjoy watching and playing soccer and am a passionate 
 - Favorite bands: [Carsick Cars](https://en.wikipedia.org/wiki/Carsick_Cars), [The Jesus and Mary Chain](https://en.wikipedia.org/wiki/The_Jesus_and_Mary_Chain), [American Football](https://en.wikipedia.org/wiki/American_Football_(band)), and many more!
 - [Me with Yuyuan](https://ziruiwang526.github.io/uploads/Me_with_Yuyuan.jpg)
 - [Me with Burger(汉堡)](https://ziruiwang526.github.io/uploads/Me_with_Burger.jpg)
+
+### Acknowledgements
+- Funding and support: [US Department of Energy (DOE)](https://www.energy.gov/), [Energy Storage Research Alliance (ESRA)](https://energystoragera.org/), [The Arnold and Mabel Beckman Foundation](https://www.beckman-foundation.org/)
+- My PI: Dr. Joaquín Rodríguez-López
+- My mentors: Dr. Michael Pence, [Dr. Oliver Rodriguez Martinez](https://oliverrdz.xyz/), Dr. Raghuram Gaddam, Dr. Abhiroop Mishra, and [Dr. Dipobrato Sarbapalli](https://dipto032.github.io/)
+- My mentees and undergrads
+- My parents
+- Yuyuan and Burger
+- My family, my friends, and everyone who has been with me during the journey
